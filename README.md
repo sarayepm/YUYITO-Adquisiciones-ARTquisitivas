@@ -44,8 +44,8 @@
 > 
 > - Python, con los siguientes módulos:
 >   - [Pillow](https://pypi.org/project/pillow/ "Enlace a PyPi")
->   - [Rich]("Enlace a PyPi")
->   - [Tkinter]
+>   - [Rich](https://pypi.org/project/rich/"Enlace a PyPi")
+>   - [Tkinter](https://docs.python.org/es/3.13/library/tkinter.html "Enlace a Python documentation")
 >   - ~~[win10toast_click](https://pypi.org/project/win10toast_click/ "Enlace a PyPi")~~ [Winotify](https://pypi.org/project/winotify/ "Enlace a PyPi")
 >   - [FPDF](https://pypi.org/project/fpdf/ "Enlace a PyPi")
 >   - [OracleDB](https://pypi.org/project/oracledb/"Enlace a PyPi")

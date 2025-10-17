@@ -43,15 +43,15 @@
 >  **Tecnologías utilizadas:**
 > 
 > - Python, con los siguientes módulos:
->   - Pillow
->   - Rich
->   - Tkinter
->   - ~~win10toast_click~~ Winotify
->   - FPDF
->   - OracleDB
->   - Time
->   - Datetime
->   - OS
+>   - [Pillow](https://pypi.org/project/pillow/ "Enlace a PyPi")
+>   - [Rich]("Enlace a PyPi")
+>   - [Tkinter]
+>   - ~~[win10toast_click](https://pypi.org/project/win10toast_click/ "Enlace a PyPi")~~ [Winotify](https://pypi.org/project/winotify/ "Enlace a PyPi")
+>   - [FPDF](https://pypi.org/project/fpdf/ "Enlace a PyPi")
+>   - [OracleDB](https://pypi.org/project/oracledb/"Enlace a PyPi")
+>   - [Time](https://docs.python.org/3/library/time.html "Enlace a Python documentation")
+>   - [Datetime](https://pypi.org/project/DateTime/ "Enlace a PyPi")
+>   - [OS](https://docs.python.org/3/library/os.html "Enlace a Python documentation")
 > - SQL
 > 
 >  **Personas Contribuyentes:**

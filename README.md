@@ -64,7 +64,7 @@
 >  **Licencia:**
 > ***
 > 
-> ## ¡Sígueme mi aventura!
+> ## ¡Sígueme en mi aventura!
 > - Instagram: []()
 > - YouTube: []()
 > - Twitter: []()
@@ -72,4 +72,3 @@
 > 
 > Gracias por seguir aquí.
 ># YUYITO-Adquisiciones-ARTquisitivas
-# YUYITO-Adquisiciones-ARTquisitivas
